@@ -1,6 +1,6 @@
 import { createSlice, nanoid } from '@reduxjs/toolkit';
 import type { PayloadAction } from '@reduxjs/toolkit';
-import type { Node, Edge } from 'reactflow';
+import type { Edge } from 'reactflow';
 import type { FlowEdge, FlowNode } from './types';
 
 interface FlowState {
