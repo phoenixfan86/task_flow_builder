@@ -1,8 +1,7 @@
-import { useState } from 'react'
-import './App.css'
-import FlowCanvas from './components/FlowCanvas/FlowCanvas'
-import AddNodeBtn from './components/AddNodeBtn/AddNodeBtn'
-import SideBar from './components/Sidebar/Sidebar'
+import './App.css';
+import FlowCanvas from './components/FlowCanvas/FlowCanvas';
+import AddNodeBtn from './components/AddNodeBtn/AddNodeBtn';
+import SideBar from './components/Sidebar/Sidebar';
 
 function App() {
 
